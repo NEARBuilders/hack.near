@@ -1,0 +1,13 @@
+{
+  "description": "This page allows individual users to make their own versions without forking.\n\n> inspired by this [homepage sidebar menu](https://near.social/#/mob.near/widget/WidgetSource?src=mob.near/widget/Welcome.RHS), courtesy of @mob.near",
+  "image": {
+    "ipfs_cid": "bafybeid4gsyhgf754xigfsp2mrdvv53ltwwm5aqw4aqxzr6vrcoqa2yrqe"
+  },
+  "name": "Design Customizable Pages",
+  "tags": {
+    "settings": "",
+    "builders": "",
+    "demo": "",
+    "page": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appName": "hack.near",
+  "src": "./src",
+  "accounts": {
+    "deploy": "hack.near",
+    "signer": "hack.near"
+  },
+  "aliases": "./replacements.mainnet.json",
+  "overrides": {
+    "testnet": {
+      "accounts": {
+        "deploy": "deploy.testnet",
+        "signer": "signer.testnet"
+      },
+      "aliases": "./replacements.testnet.json"
+    },
+    "dev": {
+      "accounts": {
+        "deploy": "deploy.testnet",
+        "signer": "signer.testnet"
+      },
+      "aliases": "./replacements.testnet.json"
+    }
+  }
+}

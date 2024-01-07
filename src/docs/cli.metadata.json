@@ -1,0 +1,14 @@
+{
+  "description": "command line utility that simplifies local component development",
+  "image": {
+    "ipfs_cid": "bafkreibjugzud7x53a3c6w777xjmwb2uo63roj4febacsx7mlsodz4t45y"
+  },
+  "name": "About BOS CLI",
+  "tags": {
+    "dev": "",
+    "edu": "",
+    "bos": "",
+    "cli": "",
+    "docs": ""
+  }
+}

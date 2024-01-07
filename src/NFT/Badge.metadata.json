@@ -1,0 +1,16 @@
+{
+  "description": "check if some account owns any tokens from a given collection",
+  "image": {
+    "ipfs_cid": "bafkreiaarjdnj6vdekkjo5esu4tb7e6tutdiwov7ll4qbpzdaubkvz3uq4"
+  },
+  "name": "Check NFT Ownership",
+  "tags": {
+    "badges": "",
+    "nft-tool": "",
+    "hack": "",
+    "dev": "",
+    "example": "",
+    "utility": "",
+    "nft": ""
+  }
+}

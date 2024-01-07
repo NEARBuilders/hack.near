@@ -1,0 +1,14 @@
+{
+  "description": "open-source product on [GitHub](https://github.com/near/near-vscode)",
+  "image": {
+    "ipfs_cid": "bafkreibjugzud7x53a3c6w777xjmwb2uo63roj4febacsx7mlsodz4t45y"
+  },
+  "name": "VS Code Extension for BOS",
+  "tags": {
+    "docs": "",
+    "ide": "",
+    "bos": "",
+    "dev": "",
+    "vscode": ""
+  }
+}
