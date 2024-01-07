@@ -18,6 +18,6 @@ Devhub and near-discovery-components also hold all their widgets in a src direct
 1. Install [bos-workspace](https://github.com/NEARBuilders/bos-workspace)
 2. ```bw init hack.near```
 3. ```bw dev```
+4. ```bw deploy```
 
 Let's hack!
-
