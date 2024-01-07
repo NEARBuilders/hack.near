@@ -1,24 +1,15 @@
 {
-  "appName": "hack.near",
+  "accountId": "hack.near",
   "src": "./src",
-  "accounts": {
-    "deploy": "hack.near",
-    "signer": "hack.near"
-  },
+  "build": "./build",
   "aliases": "./replacements.mainnet.json",
   "overrides": {
     "testnet": {
-      "accounts": {
-        "deploy": "deploy.testnet",
-        "signer": "signer.testnet"
-      },
+      "accountId": "hack.testnet",
       "aliases": "./replacements.testnet.json"
     },
     "dev": {
-      "accounts": {
-        "deploy": "deploy.testnet",
-        "signer": "signer.testnet"
-      },
+      "accountId": "hack-dev.testnet",
       "aliases": "./replacements.testnet.json"
     }
   }
