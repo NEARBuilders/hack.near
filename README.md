@@ -12,3 +12,11 @@
 I would like to be able to easily download my widgets and immediately start building with them in my workspace
 
 Devhub and near-discovery-components also hold all their widgets in a src directory. Existing bos-workspace's hold all their widgets in apps/{{appName}}
+
+## Ideal
+
+1. Install [bos-workspace](https://github.com/NEARBuilders/bos-workspace)
+2. ```bw init hack.near```
+3. ```bw dev```
+
+Let's hack!
